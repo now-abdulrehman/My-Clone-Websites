@@ -21,18 +21,18 @@
 📝 **What:** Simple and responsive W3Schools clone with clean UI using HTML and CSS.
 <br>
 
-⭐ **GitHub**<br>
-🔗 [Official](https://github.com/) ~
-[Clone](https://github-clone-ar.netlify.app/)<br>
-⚙️ **Stack:** HTML + CSS + RWD<br>
-📝 **What:** Responsive GitHub landing page clone created with HTML and CSS only.
-<br>
-
 ⭐ **Pexels**<br>
 🔗 [Official](https://www.pexels.com/) ~
 [Clone](https://pexels-clone-ar.netlify.app/)<br>
 ⚙️ **Stack:** HTML + CSS + RWD<br>
 📝 **What:** Fully responsive Pexels homepage clone designed with HTML and CSS.
+<br>
+
+⭐ **GitHub**<br>
+🔗 [Official](https://github.com/) ~
+[Clone](https://github-clone-ar.netlify.app/)<br>
+⚙️ **Stack:** HTML + CSS + RWD<br>
+📝 **What:** Responsive GitHub landing page clone created with HTML and CSS only.
 <br>
 
 ⭐ **SpotiSongDownloader**<br>
